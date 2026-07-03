@@ -17,7 +17,7 @@
 I work at the intersection of biology and data — turning raw sequencing data into biological insight.
 My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)**, and building **reproducible bioinformatics pipelines**.
 
-- 🔭 Currently working on: **TCR assembly from scRNA-seq with TRUST4 & Scirpy**
+- 🔭 Currently working on: **ONT metagenomics**
 - 🎓 Background: **Bioengineering**
 - 🌱 Exploring: **Immunoinformatics & Computational Immunology**
 - 🇩🇪 Former Erasmus+ Intern at **Leipzig University** *(RNA-seq, supervised by Dr. Stephan Bernhart)*
@@ -61,18 +61,6 @@ My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)*
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🧬 Erasmus Project](https://github.com/melikeguler99/Erasmus-project) | Advanced RNA-seq analysis — Leipzig University internship | Python, R |
-| [🔵 TCGA Methylation App](https://github.com/melikeguler99/TCGA_methylation_betavaluesAPP) | Interactive Shiny app for TCGA beta value visualization | R, Shiny |
-| [⚡ Case Study Pipeline](https://github.com/melikeguler99/case_study) | Nextflow QC pipeline for long-read sequencing data | Nextflow, Bash |
-| [🤖 RF Cell Type Prediction](https://github.com/melikeguler99/Applying-RF-Model-to-Single-cell-seq-RNA) | Random Forest model for scRNA-seq cell type annotation | Python, scikit-learn |
-| [📊 ProjectEMA](https://github.com/melikeguler99/ProjectEMA) | Polyadenylation site detection using scRNA-seq | Python, R |
-
----
-
 ## 🌍 Experience
 
 - 🇩🇪 **Erasmus+ Research Intern** — Leipzig University *(Advanced RNA-seq analysis)*
@@ -82,8 +70,6 @@ My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)*
 ---
 
 <div align="center">
-
-*"Sequences are just the beginning — the biology lives in the patterns."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=58A6FF&style=flat)
 
