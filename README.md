@@ -1,12 +1,18 @@
 <div align="center">
 
-<a href="https://github.com/melikeguler99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Melike+G%C3%BCler+%F0%9F%91%8B;Bioinformatics+%7C+Dry+Lab;Single-Cell+%7C+Metagenomics;Turning+Sequences+into+Insight+%F0%9F%A7%AC" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Melike%20Güler&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20%7C%20Dry%20Lab%20%7C%20Computational%20Biology&descAlignY=58&descSize=18" />
 
-<br/>
+</div>
+
+<div align="center">
 
 🎓 Bioengineer &nbsp;|&nbsp; 🧬 Computational Biology &nbsp;|&nbsp; 🖥️ Dry Lab &nbsp;|&nbsp; 📍 Turkey
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melike%20Güler-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-g%C3%BCler-r35/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-melikeguler99-181717?style=flat&logo=github)](https://github.com/melikeguler99)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=58A6FF&style=flat)
 
 </div>
 
@@ -49,18 +55,6 @@ My focus is on **single-cell genomics**, **metagenomics**, and building **reprod
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=melikeguler99&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeguler99&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
-
-</div>
-
----
-
 ## 🌍 Experience
 
 - 🇩🇪 **Erasmus+ Research Intern** — Leipzig University *(Advanced RNA-seq analysis)*
@@ -71,8 +65,6 @@ My focus is on **single-cell genomics**, **metagenomics**, and building **reprod
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melike%20Güler-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-g%C3%BCler-r35/)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=58A6FF&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=100&section=footer" />
 
 </div>
