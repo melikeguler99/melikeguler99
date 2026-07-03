@@ -1,18 +1,27 @@
-# Hi, I'm Melike Güler 👋
+<div align="center">
 
-🎓 Bioengineer | 🧬 Computational Biology & Bioinformatics | 🖥️ Dry Lab
+<a href="https://github.com/melikeguler99">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Melike+G%C3%BCler+%F0%9F%91%8B;Bioinformatics+%7C+Dry+Lab;Single-Cell+%7C+TCR+Analysis;Turning+Sequences+into+Insight+%F0%9F%A7%AC" alt="Typing SVG" />
+</a>
 
-I work at the intersection of biology and data — turning raw sequencing data into biological insight. My focus is on single-cell genomics, immune repertoire analysis, and building reproducible bioinformatics pipelines.
+<br/>
+
+🎓 Bioengineer &nbsp;|&nbsp; 🧬 Computational Biology &nbsp;|&nbsp; 🖥️ Dry Lab &nbsp;|&nbsp; 📍 Turkey
+
+</div>
 
 ---
 
-## 🔬 What I Work On
+## 🧬 About Me
 
-- **Single-cell RNA-seq** — clustering, cell type annotation, trajectory analysis (Scanpy, Seurat)
-- **TCR/BCR Repertoire Analysis** — immune repertoire reconstruction from scRNA-seq (TRUST4, Scirpy)
-- **Methylation Analysis** — TCGA beta value visualization and exploration
-- **Long-read QC** — quality control pipelines for Nanopore data
-- **Workflow Engineering** — reproducible pipelines with Nextflow
+I work at the intersection of biology and data — turning raw sequencing data into biological insight.
+My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)**, and building **reproducible bioinformatics pipelines**.
+
+- 🔭 Currently working on: **TCR assembly from scRNA-seq with TRUST4 & Scirpy**
+- 🎓 Background: **Bioengineering**
+- 🌱 Exploring: **Immunoinformatics & Computational Immunology**
+- 🇩🇪 Former Erasmus+ Intern at **Leipzig University** *(RNA-seq, supervised by Dr. Stephan Bernhart)*
+- 🏆 Poster at **HIBIT 2023** — International Symposium on Health Informatics & Bioinformatics
 
 ---
 
@@ -20,24 +29,35 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 **Languages & OS**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash&theme=dark)](https://skillicons.dev)
 
-**Bioinformatics Tools**
+**Tools & Frameworks**
 
-![Nextflow](https://img.shields.io/badge/Nextflow-3EAA60?style=flat&logo=nextflow&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=flat)
-![Seurat](https://img.shields.io/badge/Seurat-blue?style=flat)
-![TRUST4](https://img.shields.io/badge/TRUST4-E74C3C?style=flat)
+[![My Skills](https://skillicons.dev/icons?i=nextflow,docker,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-**Data & Visualization**
+**Data & ML**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat&logo=r&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark)](https://skillicons.dev)
+
+**Bioinformatics Stack**
+
+![TRUST4](https://img.shields.io/badge/TRUST4-E74C3C?style=for-the-badge)
+![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=for-the-badge)
+![Scirpy](https://img.shields.io/badge/Scirpy-8E44AD?style=for-the-badge)
+![Seurat](https://img.shields.io/badge/Seurat-2980B9?style=for-the-badge)
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAA60?style=for-the-badge)
+![Shiny](https://img.shields.io/badge/Shiny-0066cc?style=for-the-badge&logo=r)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=melikeguler99&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeguler99&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
 
 ---
 
@@ -48,23 +68,23 @@ I work at the intersection of biology and data — turning raw sequencing data i
 | [🧬 Erasmus Project](https://github.com/melikeguler99/Erasmus-project) | Advanced RNA-seq analysis — Leipzig University internship | Python, R |
 | [🔵 TCGA Methylation App](https://github.com/melikeguler99/TCGA_methylation_betavaluesAPP) | Interactive Shiny app for TCGA beta value visualization | R, Shiny |
 | [⚡ Case Study Pipeline](https://github.com/melikeguler99/case_study) | Nextflow QC pipeline for long-read sequencing data | Nextflow, Bash |
-| [🤖 RF Cell Type Prediction](https://github.com/melikeguler99/Applying-RF-Model-to-Single-cell-seq-RNA) | Random Forest model for single-cell RNA-seq cell type annotation | Python, scikit-learn |
+| [🤖 RF Cell Type Prediction](https://github.com/melikeguler99/Applying-RF-Model-to-Single-cell-seq-RNA) | Random Forest model for scRNA-seq cell type annotation | Python, scikit-learn |
 | [📊 ProjectEMA](https://github.com/melikeguler99/ProjectEMA) | Polyadenylation site detection using scRNA-seq | Python, R |
 
 ---
 
 ## 🌍 Experience
 
-- 🇩🇪 **Erasmus+ Research Intern** — Leipzig University, Germany *(RNA-seq data analysis, supervised by Dr. Stephan Bernhart)*
+- 🇩🇪 **Erasmus+ Research Intern** — Leipzig University *(Advanced RNA-seq analysis)*
 - 🧑‍🏫 **Bioinformatics Instructor** — [Eres Biotechnology](https://www.eresbiotech.com)
-- 🏆 **Poster Presenter** — HIBIT 2023 International Symposium on Health Informatics and Bioinformatics
+- 🏆 **Poster Presenter** — HIBIT 2023 International Symposium
 
 ---
 
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-melikeguler99-181717?style=flat&logo=github)](https://github.com/melikeguler99)
-
----
+<div align="center">
 
 *"Sequences are just the beginning — the biology lives in the patterns."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=58A6FF&style=flat)
+
+</div>
