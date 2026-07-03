@@ -71,6 +71,8 @@ My focus is on **single-cell genomics**, **metagenomics**, and building **reprod
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melike%20Güler-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-g%C3%BCler-r35/)
+&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=58A6FF&style=flat)
 
 </div>
