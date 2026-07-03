@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/melikeguler99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Melike+G%C3%BCler+%F0%9F%91%8B;Bioinformatics+%7C+Dry+Lab;Single-Cell+%7C+TCR+Analysis;Turning+Sequences+into+Insight+%F0%9F%A7%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+I'm+Melike+G%C3%BCler+%F0%9F%91%8B;Bioinformatics+%7C+Dry+Lab;Single-Cell+%7C+Metagenomics;Turning+Sequences+into+Insight+%F0%9F%A7%AC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,11 +15,11 @@
 ## 🧬 About Me
 
 I work at the intersection of biology and data — turning raw sequencing data into biological insight.
-My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)**, and building **reproducible bioinformatics pipelines**.
+My focus is on **single-cell genomics**, **metagenomics**, and building **reproducible bioinformatics pipelines**.
 
 - 🔭 Currently working on: **ONT metagenomics**
 - 🎓 Background: **Bioengineering**
-- 🌱 Exploring: **Immunoinformatics & Computational Immunology**
+- 🌱 Exploring: **ONT long-read sequencing & metagenomics**
 - 🇩🇪 Former Erasmus+ Intern at **Leipzig University** *(RNA-seq, supervised by Dr. Stephan Bernhart)*
 - 🏆 Poster at **HIBIT 2023** — International Symposium on Health Informatics & Bioinformatics
 
@@ -41,12 +41,11 @@ My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)*
 
 **Bioinformatics Stack**
 
-![TRUST4](https://img.shields.io/badge/TRUST4-E74C3C?style=for-the-badge)
 ![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=for-the-badge)
-![Scirpy](https://img.shields.io/badge/Scirpy-8E44AD?style=for-the-badge)
 ![Seurat](https://img.shields.io/badge/Seurat-2980B9?style=for-the-badge)
 ![Nextflow](https://img.shields.io/badge/Nextflow-3EAA60?style=for-the-badge)
 ![Shiny](https://img.shields.io/badge/Shiny-0066cc?style=for-the-badge&logo=r)
+![NanoQC](https://img.shields.io/badge/NanoQC-F39C12?style=for-the-badge)
 
 ---
 
@@ -54,8 +53,9 @@ My focus is on **single-cell genomics**, **immune repertoire analysis (TCR/BCR)*
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=melikeguler99&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeguler99&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=melikeguler99&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeguler99&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
