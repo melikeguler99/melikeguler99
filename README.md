@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 Bioengineer &nbsp;|&nbsp; 🧬 Computational Biology &nbsp;|&nbsp; 🖥️ Dry Lab &nbsp;|&nbsp; 📍 Turkey
+🎓 Bioengineer &nbsp;|&nbsp; 🧬 Genomics &nbsp;|&nbsp;; 📍 Turkey
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melike%20Güler-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-g%C3%BCler-r35/)
 &nbsp;
