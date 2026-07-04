@@ -21,13 +21,6 @@
 ## 🧬 About Me
 
 I work at the intersection of biology and data — turning raw sequencing data into biological insight.
-My focus is on **single-cell genomics**, **metagenomics**, and building **reproducible bioinformatics pipelines**.
-
-- 🔭 Currently working on: **ONT metagenomics**
-- 🎓 Background: **Bioengineering**
-- 🌱 Exploring: **ONT long-read sequencing & metagenomics**
-- 🇩🇪 Former Erasmus+ Intern at **Leipzig University** *(RNA-seq, supervised by Dr. Stephan Bernhart)*
-- 🏆 Poster at **HIBIT 2023** — International Symposium on Health Informatics & Bioinformatics
 
 ---
 
@@ -52,14 +45,6 @@ My focus is on **single-cell genomics**, **metagenomics**, and building **reprod
 ![Nextflow](https://img.shields.io/badge/Nextflow-3EAA60?style=for-the-badge)
 ![Shiny](https://img.shields.io/badge/Shiny-0066cc?style=for-the-badge&logo=r)
 ![NanoQC](https://img.shields.io/badge/NanoQC-F39C12?style=for-the-badge)
-
----
-
-## 🌍 Experience
-
-- 🇩🇪 **Erasmus+ Research Intern** — Leipzig University *(Advanced RNA-seq analysis)*
-- 🧑‍🏫 **Bioinformatics Instructor** — [Eres Biotechnology](https://www.eresbiotech.com)
-- 🏆 **Poster Presenter** — HIBIT 2023 International Symposium
 
 ---
 
