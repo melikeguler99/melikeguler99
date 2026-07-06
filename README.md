@@ -22,6 +22,12 @@
 
 I work at the intersection of biology and data — turning raw sequencing data into biological insight.
 
+🧪 Research Interests
+Genomics
+Transcriptomics
+Metagenomics
+Machine learning in biology
+
 ---
 
 ## 🛠️ Skills
@@ -40,11 +46,14 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 **Bioinformatics Stack**
 
-![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=for-the-badge)
-![Seurat](https://img.shields.io/badge/Seurat-2980B9?style=for-the-badge)
 ![Nextflow](https://img.shields.io/badge/Nextflow-3EAA60?style=for-the-badge)
 ![Shiny](https://img.shields.io/badge/Shiny-0066cc?style=for-the-badge&logo=r)
-![NanoQC](https://img.shields.io/badge/NanoQC-F39C12?style=for-the-badge)
+![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=for-the-badge)
+
+---
+
+Thanks for stopping by!
+If you're interested in bioinformatics, computational biology, or open-source science, feel free to explore my repositories or connect with me.
 
 ---
 
