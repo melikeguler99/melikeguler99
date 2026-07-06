@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Melike%20Güler&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20%7C%20Dry%20Lab%20%7C%20Computational%20Biology&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Melike%20Güler&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Biology&descAlignY=58&descSize=18" />
 
 </div>
 
