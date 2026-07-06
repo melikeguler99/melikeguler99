@@ -23,10 +23,10 @@
 I work at the intersection of biology and data — turning raw sequencing data into biological insight.
 
 🧪 Research Interests
-Genomics
-Transcriptomics
-Metagenomics
-Machine learning in biology
+- Genomics
+- Transcriptomics
+- Metagenomics
+- Machine learning in biology
 
 ---
 
