@@ -55,8 +55,6 @@ I work at the intersection of biology and data — turning raw sequencing data i
 Thanks for stopping by!
 If you're interested in bioinformatics, computational biology, or open-source science, feel free to explore my repositories or connect with me.
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=100&section=footer" />
