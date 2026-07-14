@@ -2,7 +2,7 @@
 
 # Melike Güler
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d04ed6&center=true&vCenter=true&width=400&lines=Bioengineer;Data+Scientist;Jr.+Bioinformatician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAA520&center=true&vCenter=true&width=400&lines=Bioengineer;Data+Scientist;Jr.+Bioinformatician)](https://git.io/typing-svg)
 
 🧬 Genomics &nbsp;|&nbsp; 📍 Turkey
 
