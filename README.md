@@ -42,7 +42,6 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 **Bioinformatics Stack**
 
-![Nextflow](https://img.shields.io/badge/Nextflow-3EAA60?style=for-the-badge)
 ![Snakemake](https://img.shields.io/badge/Snakemake-60D040?style=for-the-badge)
 ![Shiny](https://img.shields.io/badge/Shiny-0066cc?style=for-the-badge&logo=r)
 ![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=for-the-badge)
@@ -50,28 +49,11 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 ---
 
-## 😂 Every Bioinformatician Ever
+## 😂 Meme
 
-```
-[day  1]  $ nextflow run pipeline.nf
-          ERROR: config file not found
-
-[day  4]  $ nextflow run pipeline.nf
-          ERROR: dependency 'samtools' not in PATH
-
-[day  9]  $ nextflow run pipeline.nf
-          ERROR: java.lang.OutOfMemoryError: GC overhead limit exceeded
-
-[day 14]  $ nextflow run pipeline.nf
-          ERROR: index file missing — did you run samtools index?
-
-[day 15]  $ nextflow run pipeline.nf
-
-          ✅ Workflow complete!
-          Duration: 14d 23h 47m 12s
-```
-
-> *"It's not a bug — it's an undocumented feature of the human genome."* 🧬
+<!-- Add your meme image here:
+![meme](URL_TO_YOUR_IMAGE)
+-->
 
 ---
 
