@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Melike%20Güler&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Biology&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:834d9b,100:d04ed6&height=180&section=header&text=Melike%20Güler&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Biology&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Bioinformatician+%F0%9F%A7%AC;Turning+sequencing+data+into+insight+%F0%9F%94%AC;Genomics+%7C+Transcriptomics+%7C+Metagenomics;Machine+Learning+in+Biology+%F0%9F%A4%96;Open+Science+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d04ed6&center=true&vCenter=true&width=400&lines=Bioengineer;Data+Scientist;Jr.+Bioinformatician)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-melikeguler99-181717?style=flat&logo=github)](https://github.com/melikeguler99)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=58A6FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=d04ed6&style=flat)
 
 </div>
 
@@ -58,48 +58,11 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=melikeguler99&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeguler99&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=melikeguler99&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=melikeguler99&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 My Contributions as a Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melikeguler99/melikeguler99/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melikeguler99/melikeguler99/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/melikeguler99/melikeguler99/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 <div align="center">
 
 Thanks for stopping by! 🌱
 If you're interested in bioinformatics, computational biology, or open-source science, feel free to explore my repositories or connect with me.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:834d9b,100:d04ed6&height=100&section=footer" />
 
 </div>
