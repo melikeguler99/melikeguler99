@@ -10,6 +10,12 @@
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=melikeguler99&color=d04ed6&style=flat)
 
+---
+
+![Klimt meets UMAP](beautiful_plot.png)
+
+*Gustav Klimt, 1908 — oil and gold on canvas. Me, 2024 — Python and RNA on a cluster. Same story.*
+
 </div>
 
 ---
@@ -46,18 +52,6 @@ I work at the intersection of biology and data — turning raw sequencing data i
 ![Shiny](https://img.shields.io/badge/Shiny-0066cc?style=for-the-badge&logo=r)
 ![Scanpy](https://img.shields.io/badge/Scanpy-1f77b4?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🎨 When Bioinformatics Meets Art
-
-<div align="center">
-
-![Klimt meets UMAP](beautiful_plot.png)
-
-*Gustav Klimt's "The Kiss" — and a UMAP that didn't get the memo it wasn't supposed to be beautiful.*
-
-</div>
 
 ---
 
