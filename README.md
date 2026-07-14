@@ -57,7 +57,7 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 <div align="center">
 
-Thanks for stopping by! 🌱
+Thanks for stopping by! 
 Feel free to explore my repositories or connect with me.
 
 </div>
