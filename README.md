@@ -49,11 +49,15 @@ I work at the intersection of biology and data — turning raw sequencing data i
 
 ---
 
-## 😂 Meme
+## 🎨 When Bioinformatics Meets Art
 
-<!-- Add your meme image here:
-![meme](URL_TO_YOUR_IMAGE)
--->
+<div align="center">
+
+![Klimt meets UMAP](beautiful_plot.png)
+
+*Gustav Klimt's "The Kiss" — and a UMAP that didn't get the memo it wasn't supposed to be beautiful.*
+
+</div>
 
 ---
 
